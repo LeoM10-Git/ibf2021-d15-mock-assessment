@@ -1,0 +1,19 @@
+.author-label .title-label .author-input .title-input{
+    display: inline-block;
+}
+
+.form-group{
+    display: flex;
+}
+
+.search-button{
+    margin-left:90%;
+}
+.header {
+    color: #fff;
+    text-decoration: none;
+}
+.header:hover{
+    color: #fff;
+    text-decoration: none;
+}
